@@ -5,6 +5,16 @@ body {
     padding: 0;
 }
 
+header {
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+    
+    padding-top: 1px;
+    width: 100%;
+    font-family: Georgia;
+    text-align: center; 
+}
+
 
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -53,10 +63,17 @@ h3 {
 
 
 
-.center {
+.center   {
     text-align: center;
     
     
+}
+
+#mydescription {
+    
+    color: black;
+    padding: 40px;
+    text-align: center;
 }
 
 footer {
